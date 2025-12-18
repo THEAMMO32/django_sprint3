@@ -1,7 +1,3 @@
-"""
-Django settings for Blogicum project.
-"""
-
 from pathlib import Path
 
 
